@@ -1,5 +1,5 @@
 # Rock-Paper-Scissor
-Welcome to the GAME: Stone-Paper-Scissor
+Welcome to the GAME: Rock-Paper-Scissor
 
 <h3>Rules of the GAME</h3>
                    
